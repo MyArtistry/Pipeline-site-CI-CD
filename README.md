@@ -153,7 +153,3 @@ Camadas isoladas com injeção de dependência — cada uma testável com mock d
 ✅ **28/28 subtasks** — implementação completa das 3 camadas. Código revisado, 334 testes passando.
 
 ---
-
-<p align="center">
-  <sub>Feito com 💀 por desenvolvedores que já moraram em condomínio.</sub>
-</p>
